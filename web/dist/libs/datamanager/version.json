@@ -1,6 +1,6 @@
 {
-  "message": "Merge branch 'develop' into 'fb-leap-851'",
-  "commit": "42b15dcf633900902686551b308b3ff658ae3014",
-  "date": "2024-05-02T19:54:13.000Z",
-  "branch": "fb-leap-851"
+  "message": "fix: OPTIC-714: Remove Warning when the page leave datamanager page",
+  "commit": "5242c279c08d9f418433146647c7af50b3273bca",
+  "date": "2024-05-03T18:59:02.000Z",
+  "branch": "fb-optic-714/remove-warning"
 }
