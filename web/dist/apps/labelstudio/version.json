@@ -1,6 +1,6 @@
 {
-  "message": "Merge branch 'develop' into 'fb-leap-851'",
-  "commit": "42b15dcf633900902686551b308b3ff658ae3014",
-  "date": "2024-05-02T19:54:13.000Z",
-  "branch": "fb-leap-851"
+  "message": "fix: OPTIC-712: Remove warnings in the app related to injection occur before observer",
+  "commit": "2f7ef5079e5e07685cb596fd7280d9485d581749",
+  "date": "2024-05-03T17:03:19.000Z",
+  "branch": "fb-optic-712/remove-warnings"
 }
