@@ -1,6 +1,6 @@
 {
-  "message": "Merge branch 'develop' into 'fb-leap-851'",
-  "commit": "42b15dcf633900902686551b308b3ff658ae3014",
-  "date": "2024-05-02T19:54:13.000Z",
-  "branch": "fb-leap-851"
+  "message": "fix: OPTIC-713: Remove warnings in the console when a infinite scroll is used in datamanager",
+  "commit": "4858bd3aa8d2b58583defa492ea8ff0fb3201a16",
+  "date": "2024-05-03T18:32:46.000Z",
+  "branch": "fb-optic-713/remove-warnings"
 }
